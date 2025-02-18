@@ -10,6 +10,6 @@ fi
 mkdir -p "$1"
 
 # Navigate into the folder
-cd "$1" && touch description.md solution."$2"
+cd "$1" && touch description.md Solution."$2"
 
-echo "Folder '$1' created with description.md, solution."$2" files."
+echo "Folder '$1' created with description.md, Solution."$2" files."

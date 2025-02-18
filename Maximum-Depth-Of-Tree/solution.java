@@ -2,7 +2,7 @@
  * Definition for a binary tree node.
  * 
  */
-class Solution {
+class solution {
     public class TreeNode {
              int val;
              TreeNode left;
